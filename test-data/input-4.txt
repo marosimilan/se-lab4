@@ -1,0 +1,4 @@
+# TC4: SINGLE - Váltás (P lő, S üres -> P lő)
+GT4500,10,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

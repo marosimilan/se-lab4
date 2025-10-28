@@ -1,0 +1,3 @@
+# TC5: SINGLE - Hiba (P hibázik, nem vált S-re)
+GT4500,10,1,10,0
+TORPEDO,SINGLE

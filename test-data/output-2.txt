@@ -1,0 +1,6 @@
+# Init
+SUCCESS
+# Első lövés (Primary)
+SUCCESS
+# Második lövés (Secondary)
+SUCCESS

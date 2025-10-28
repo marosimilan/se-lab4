@@ -1,0 +1,3 @@
+# TC3: SINGLE - Váltás (P üres, S lő)
+GT4500,0,0,10,0
+TORPEDO,SINGLE
