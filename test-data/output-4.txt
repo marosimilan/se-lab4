@@ -1,0 +1,6 @@
+# Init
+SUCCESS
+# Első lövés (P)
+SUCCESS
+# Második lövés (S üres, ezért P)
+SUCCESS

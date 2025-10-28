@@ -1,0 +1,3 @@
+# TC1: SINGLE - Első lövés (Primary)
+GT4500,10,0,10,0
+TORPEDO,SINGLE

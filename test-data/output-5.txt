@@ -1,0 +1,4 @@
+# Init
+SUCCESS
+# Lövés (P hibázik, S-re nem vált)
+FAIL

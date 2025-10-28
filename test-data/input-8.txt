@@ -1,0 +1,3 @@
+# TC8: ALL - Egyik üres (P), másik sikeres (S)
+GT4500,0,0,10,0
+TORPEDO,ALL
